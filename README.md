@@ -7,6 +7,9 @@
 ### Security & Backend Engineer @ DigiScrypt Technologies • Open Source Contributor
 
 <p align="center">
+📍 Bangalore, Karnataka, India
+</p>
+<p align="center">
 <a href="https://digiscrypt.com/">
 <img src="https://img.shields.io/badge/🏢%20DigiScrypt%20Technologies-Visit%20Website-0ea5e9?style=for-the-badge" />
 </a>
