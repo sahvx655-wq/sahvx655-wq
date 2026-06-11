@@ -86,28 +86,6 @@ API Design
 Open Source Contributions
 ```
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahvx655-wq&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahvx655-wq&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🚀 Engineering Philosophy
 
 ```text
