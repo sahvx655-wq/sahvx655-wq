@@ -132,4 +132,4 @@ Build secure systems.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:0ea5e9"/>  where should i paste this one
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:0ea5e9"/> 
